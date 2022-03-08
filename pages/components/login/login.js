@@ -19,7 +19,10 @@ export default function Login() {
             marginRight: 20,
           }}
         ></div>
-        <Link href="/posts/register/register">
+        <Link
+          href="/register/register
+        "
+        >
           <button className={styles.createbutton}>Create new account</button>
         </Link>
       </div>
